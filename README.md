@@ -1,5 +1,6 @@
 # portafolio
-Portafolio Profesional – 6 Años de Experiencia en Desarrollo Frontend y Backend
+Portafolio Profesional – 6 Años de Experiencia en Desarrollo Frontend y Backend.
+
 Bienvenido a mi portafolio, donde combino creatividad, eficiencia y tecnología para construir interfaces modernas y accesibles. Con seis años de experiencia en desarrollo frontend, he perfeccionado habilidades en Vue.js, React y Node.js, diseñando soluciones escalables y optimizadas para la mejor experiencia de usuario.
 
 Sobre mí
